@@ -5,14 +5,18 @@ body {
     color: antiquewhite;
 }
 
+a {
+    color: lightcyan);
+}
+
 h1 {
     text-align: center;
-    border: 2px style antiquewhite;
+    border: 2px solid antiquewhite;
     border-radius: 12px;
 }
 
 img {
-    border:2px style antiquewhite ;
+    border:2px solid antiquewhite ;
     border-radius: 12px;
 }
 
