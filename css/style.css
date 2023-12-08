@@ -1,18 +1,21 @@
 /* My First Website CSS Styling */
 body {
-    font-family: papyrus, sans-serif;
+    font-family: helvetica, sans-serif;
     background-color: darkslategray;
     color: antiquewhite;
 }
 
-a {
-    color: lightcyan);
+a:link, a:visited {
+    color: lightcyan;
+    font-family: papyrus, sans-serif;
 }
 
 h1 {
+    font-family: papyrus, sans-serif;
     text-align: center;
     border: 2px solid antiquewhite;
     border-radius: 12px;
+    padding: 25px 10px 20px;
 }
 
 img {
