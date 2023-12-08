@@ -1,0 +1,23 @@
+/* My First Website CSS Styling */
+body {
+    font-family: papyrus, sans-serif;
+    background-color: darkslategray;
+    color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    border: 2px style antiquewhite;
+    border-radius: 12px;
+}
+
+img {
+    border:2px style antiquewhite ;
+    border-radius: 12px;
+}
+
+.highlight {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
